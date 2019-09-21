@@ -35,7 +35,7 @@
                 <v-card-actions>
                     <div class="flex-grow-1"></div>
                     <v-btn v-on:click="fetch_data" text icon color="pink">
-                        <v-icon>mdi-heart</v-icon>
+                        <v-icon>mdi-search</v-icon>
                     </v-btn>
 					<div class="flex-grow-1"></div>
                 </v-card-actions>
