@@ -156,6 +156,16 @@
             url: "https://example.com",
             name: "no brands' associations",
             img: "https://images.unsplash.com/photo-1564067361310-5d4c3a5c7643?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+        },
+        "walgreens": {
+            url: "https://walgreens.com",
+            name: "Walgreens",
+            img: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Walgreens_Logo.svg/1920px-Walgreens_Logo.svg.png",
+        },
+        "sports illustrated": {
+            url: "https://www.si.com",
+            name: "Sports Illustrated",
+            img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/SportsIllustrated.svg/1920px-SportsIllustrated.svg.png"
         }
       },
     }),
